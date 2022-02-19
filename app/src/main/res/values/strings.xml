@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">State/Data Management</string>
+
+    <string name="login_text_1">Welcome To \nReady To Travel</string>
+    <string name="login_text_2">Sign up with Facebook for the most fulfilling trip planning experience with us!</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_email">Login with email address</string>
+    <string name="create_new_account">Create a new account</string>
+    <string name="almost_there">Almost there!</string>
+    <string name="complete_form">Complete the form below to create \nyour Ready to travel account.</string>
+    <string name="mandatory">*Mandatory</string>
+    <string name="first_name">First Name *</string>
+    <string name="last_name">Last Name *</string>
+    <string name="email_address">Email Address *</string>
+    <string name="date_of_birth">Date of Birth *</string>
+    <string name="nationality">Nationality *</string>
+    <string name="country_of_residence">Country of Residence *</string>
+    <string name="mobile_no">Mobile no. (Optional) *</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="create_account_now">Create my account now</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+
+    // validation messages
+    <string name="enter_first_name">Please enter your First Name</string>
+    <string name="enter_last_name">Please enter your Last Name</string>
+    <string name="enter_email">Please enter your Email Address</string>
+    <string name="enter_nationality">Please enter your Nationality</string>
+    <string name="enter_country">Please enter your Country of Residence</string>
+    <string name="enter_dob">Please enter your Date of Birth</string>
+    <string name="enter_valid_email">Please enter a valid Email address</string>
+
+</resources>
